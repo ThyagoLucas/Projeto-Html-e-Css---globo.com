@@ -1,0 +1,328 @@
+body {
+
+ 
+}
+
+.principal{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: auto;
+
+  width: 1250px;
+    
+  
+}
+
+.logo-e-menu{
+  width: 100%;
+
+}
+
+.topo{
+  
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 80px;
+  border-bottom: 1px solid #F5F6F7;
+}
+
+
+
+.topo-geral{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: auto;
+
+  justify-content: center;
+ 
+  width: 1250px;
+}
+
+.logo-globo{
+
+  width: 171px;
+  height: 36px;
+  margin: 22px;
+}
+
+.menu{
+  
+
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 4px;
+  border-bottom: 1px solid #F5F6F7;
+  width: 100%;
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  color: #11a2ced8;
+}
+
+
+
+.g1 {
+  color: #c3170c;
+}
+.oglobo {
+  color: #1e4b9b;
+}
+.valor {
+  color: #006766;
+}
+.ge {
+  color: #07aa47;
+}
+
+.cartola {
+  color: #e3662b;
+}
+.globoplay {
+  color: #fb0735;
+}
+
+.dropz {
+  color: #ff75bb;
+}
+
+.gshow {
+  color: #ec7d00;
+}
+
+.quem {
+  color: #323333;
+}
+
+.receitas {
+  color: #a81d83;
+}
+
+
+
+.destaque{
+  
+  width: 624px;
+  height: 201px;
+  margin-top: 34px;
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 52px;
+  line-height: 67px;
+  letter-spacing: -0.01em;
+  color: #C4160C;
+}
+
+.sub-destaque1{
+  
+
+  width: 622px;
+  height: 25px;
+  left: 153px;
+
+  font-family: Encode Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 7px;
+    letter-spacing: -0.01em;
+
+    color: #303134;
+    line-height: 33px;
+    padding-top: 29px;
+}
+
+.sub-destaque2{
+
+
+  width: 622px;
+  height: 25px;
+  left: 153px;
+
+  font-family: Encode Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    
+    letter-spacing: -0.01em;
+
+    color: #303134;
+    line-height: 33px;
+    padding-top: 7px;
+    margin-bottom: 25px;
+}
+
+
+.div-esquerda{
+  
+}
+
+.img-esquerda{
+  border-radius: 12px;
+  width: 193px;
+  height: 100px;
+}
+
+.img-direita{
+  border-radius: 12px;
+  width: 240px;
+  height: 128px;
+  margin-bottom: 11px;
+
+}
+
+.div-noticias-esquerda{
+  border-top: 1px solid #F5F6F7;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 25px;
+  width: 624px;
+}
+
+.noticias-esquerda{
+  width: 192px;
+  padding-bottom: 36px;
+
+
+}
+
+.not-parte1{
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #C4170C;
+  padding-top: 11px;
+  padding-bottom: 6px;
+
+}
+
+.not-parte2{
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  color: #2F3134;
+  width: 192px;
+  letter-spacing: -0.045em;
+  padding-bottom: 4.5px;
+}
+.not-parte3{
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #2F3134;
+  margin-top: 4.5px;
+  width: 174px;
+}
+
+.div-chamadas{
+  display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-top: 1px solid #F5F6F7;
+    padding-top: 25px;
+    width: 624px;
+    margin-bottom: 87px;
+
+}
+
+.diagonal1{
+  
+  
+  justify-content: space-between;
+  border-left: 1px solid #F5F6F7; 
+  margin-top: 13px
+}
+
+.diagonal2{
+  
+
+  margin-top: 13px;
+  border-left: 1px solid #F5F6F7;
+  width: 250px;
+  height: 900px;
+
+}
+
+.div-direita{
+  display: flex;
+  
+  flex-wrap: wrap;
+}
+
+
+
+.noticias-dir1{
+  
+
+  
+  margin-left: 35px;
+  margin-right: 35px;
+  width: 240px;
+  padding-top: 35px;
+  
+}
+
+.not-parte1-dir{
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  
+  padding-bottom: 6px;
+}
+
+.not-parte2-dir{
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+
+  color: #2F3134;
+  
+
+  width: 240px;
+  
+}
+
+.not-parte3-dir{
+  font-family: Encode Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  
+
+  letter-spacing: -0.048em;
+
+  margin-bottom: 4px ;
+
+  color: #2F3134;
+  width: 217px;
+  height: 43px;
+
+}
+
+
+
